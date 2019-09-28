@@ -1,0 +1,8 @@
+classes
+testclasses
+.settings/org.eclipse.ltk.core.refactoring.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.core.resources.prefs
+libs/.DS_Store
+._.project
+._.classpath
